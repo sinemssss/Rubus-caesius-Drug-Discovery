@@ -17,6 +17,6 @@ Below are the major phenolic and flavonoid compounds retrieved from PubChem usin
 | **Ellagic acid** | 5281855 | C1=C2C3=C(C(=C1)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O |
 
 ## Next Steps
-*   [ ] Disease/Target protein selection from PDB (Protein Data Bank)
+*   [x] Disease/Target protein selection from PDB (Protein Data Bank)
 *   [ ] Structure preparation (Protein & Ligand minimization)
 *   [ ] Molecular docking execution using AutoDock Vina
