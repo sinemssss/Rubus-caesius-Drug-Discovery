@@ -20,3 +20,5 @@ Below are the major phenolic and flavonoid compounds retrieved from PubChem usin
 *   [x] Disease/Target protein selection from PDB (Protein Data Bank)
 *   [x] Structure preparation (Protein & Ligand minimization)
 *   [ ] Molecular docking execution using AutoDock Vina
+## Project Progress & Reports
+*   [2ITY (EGFR Kinase Domain) Docking Sonuçları Detaylı Raporu](2ITY_Docking_Results.md)
