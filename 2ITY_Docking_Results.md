@@ -17,6 +17,8 @@ The virtual screening simulation was performed using AutoDock Vina. The results 
 ## Key Insights & Chemical Discussion
 
 *   **Tiliroside (-8.9 kcal/mol):** The presence of multiple aromatic rings and glycosidic linkages allows this molecule to establish extensive hydrophobic networks and hydrogen bonds deep within the ATP-binding pocket of EGFR.
+*   ![Tiliroside 2ITY Interaction Diagram](2ITY_Tiliroside_Interactions.png)
+
 *   **Gallic acid (-6.0 kcal/mol):** Due to its significantly lower molecular weight and smaller structural footprint, it occupies only a fraction of the binding cleft, leading to fewer stabilizing interactions compared to larger flavonoids like Rutin or Hyperoside.
 
 ## Vina Configuration Parameters
