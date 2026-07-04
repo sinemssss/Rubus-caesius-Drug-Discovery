@@ -18,5 +18,5 @@ Below are the major phenolic and flavonoid compounds retrieved from PubChem usin
 
 ## Next Steps
 *   [x] Disease/Target protein selection from PDB (Protein Data Bank)
-*   [ ] Structure preparation (Protein & Ligand minimization)
+*   [x] Structure preparation (Protein & Ligand minimization)
 *   [ ] Molecular docking execution using AutoDock Vina
