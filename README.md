@@ -22,3 +22,4 @@ Below are the major phenolic and flavonoid compounds retrieved from PubChem usin
 *   [ ] Molecular docking execution using AutoDock Vina
 ## Project Progress & Reports
 *   [2ITY (EGFR Kinase Domain) Docking Sonuçları Detaylı Raporu](2ITY_Docking_Results.md)
+* [5IKQ (COX-2 / Enflamasyon) Docking Sonuçları Detaylı Raporu](5IKQ_Docking_Results.md)
